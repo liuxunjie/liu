@@ -1,13 +1,13 @@
 package com.xb.model;
 
 public class Demo {
-    private Integer userId;
+    private Integer userId1;
 
-    public Integer getUserId() {
-        return userId;
+    public Integer getUserId1() {
+        return userId1;
     }
 
-    public void setUserId(Integer userId) {
-        this.userId = userId;
+    public void setUserId1(Integer userId1) {
+        this.userId1 = userId1;
     }
 }
